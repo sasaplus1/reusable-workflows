@@ -7,8 +7,6 @@
 #   lint:
 #     uses: sasaplus1/reusable-workflows/.github/workflows/lint-workflows.yml@main
 
-name: lint workflows
-
 on:
   workflow_call:
 
