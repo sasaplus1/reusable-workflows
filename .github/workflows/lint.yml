@@ -7,5 +7,4 @@ on:
 
 jobs:
   lint:
-    timeout-minutes: 5
-    uses: sasaplus1/reusable-workflows/.github/workflows/lint-workflows.yml
+    uses: sasaplus1/reusable-workflows/.github/workflows/lint-workflows.yml@main
